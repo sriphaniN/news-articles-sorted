@@ -28,6 +28,13 @@ Model Selection I : Tested all base models to check the base accuracy, Also plot
 
 Pickle File : Selected model as per best accuracy and created pickle file .
 
+
+Project Title: News Articles Sorting
+Technologies: Deep Learning Technology (NLP)
+Domain:       Media
+Project Difficulties level: Intermediate
+
+
 Technologies Used
 python
 nltk
