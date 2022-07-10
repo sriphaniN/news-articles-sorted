@@ -30,8 +30,14 @@ Pickle File : Selected model as per best accuracy and created pickle file .
 
 
 Project Title: News Articles Sorting
+
+
 Technologies: Deep Learning Technology (NLP)
+
+
 Domain:       Media
+
+
 Project Difficulties level: Intermediate
 
 
