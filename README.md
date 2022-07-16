@@ -52,7 +52,7 @@ PorterStemmer
 pandas_profiling
 sklearn
 
-Depolyment: https://news-article-sorting.netlify.app/
+
 
 
 video link of depolyment: https://github.com/sriphaniN/news-articles-sorted/blob/a006cd1a1770cbff717729bfebefb2ff3e51c6d3/project2/video-record.webm
